@@ -1,5 +1,5 @@
 # centos7-updated
-FROM centos:7
+FROM index.docker.io/library/centos:7
 
 USER root
 
